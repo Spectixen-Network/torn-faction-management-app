@@ -26,9 +26,13 @@ Simply, this is a management app for Factions in TORN. Aiming to aid with manage
     - [ ] Members joining & leaving
     - [ ] Deposits & Withdraws in faction bank
     - [ ] Item usage from armoury
+  - [ ] War Annoucements
+  - [ ] Chain Annoucements
 - [ ] Loaned items list
   - [ ] Member names
 - [ ] War Wall Stakeout
+  - [ ] Chain watcher
+  - [ ] Total score watcher 
 - [ ] Multi-language Support
     - [X] English
     - [ ] Spanish
