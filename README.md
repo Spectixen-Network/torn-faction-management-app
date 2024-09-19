@@ -22,10 +22,12 @@ Simply, this is a management app for Factions in TORN. Aiming to aid with manage
       - [ ] User Permissions
     - [ ] Faction Connection via TORN API
 - [ ] Discord Bot integration
+  - [ ] TORN User Verification
+    - [ ] TORN Nickname + id changer
+    - [ ] Rank/Position recognition 
   - [ ] Activity Annoucements
     - [ ] Members joining & leaving
     - [ ] Deposits & Withdraws in faction bank
-    - [ ] Rank recognition 
     - [ ] Item usage from armoury
   - [ ] War Annoucements
   - [ ] Chain Annoucements
