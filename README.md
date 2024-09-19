@@ -25,6 +25,7 @@ Simply, this is a management app for Factions in TORN. Aiming to aid with manage
   - [ ] Activity Annoucements
     - [ ] Members joining & leaving
     - [ ] Deposits & Withdraws in faction bank
+    - [ ] Rank recognition 
     - [ ] Item usage from armoury
   - [ ] War Annoucements
   - [ ] Chain Annoucements
