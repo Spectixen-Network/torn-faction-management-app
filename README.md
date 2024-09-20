@@ -35,7 +35,8 @@ Simply, this is a management app for Factions in TORN. Aiming to aid with manage
   - [ ] Member names
 - [ ] War Wall Stakeout
   - [ ] Chain watcher
-  - [ ] Total score watcher 
+  - [ ] Total score watcher
+- [ ] Mobile Application (Not sure If we want to go there)
 - [ ] Multi-language Support
     - [X] English
     - [ ] Spanish
