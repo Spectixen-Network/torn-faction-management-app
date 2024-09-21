@@ -40,6 +40,5 @@ Simply, this is a management app for Factions in TORN. Aiming to aid with manage
 - [ ] Multi-language Support
     - [X] English
     - [ ] Spanish
-    - [ ] Russian
     - [ ] Czech
 
