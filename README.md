@@ -1,10 +1,10 @@
 # TORN Faction Management app
 
 #### What is TORN?
-Torn is a text-based, crime-themed massively multiplayer online role-playing game. The game was developed by the British developer Joe Chedburn in 2004, and is one of the largest text-based online video games. The game involves a virtual world based around crime and business.
+Torn is a text-based, crime-themed massively multiplayer online role-playing game. The game was developed by the British developer Joe Chedburn in 2004 and is one of the largest text-based online video games. The game involves a virtual world based around crime and business.
 
 ## About The Project
-Simply, this is a management app for Factions in TORN. Aiming to aid with management of the members activity, armoury, bank and much more.
+Simply, this is a management app for Factions in TORN. It aims to aid in managing the members' activities, armoury, bank, and much more.
 
 ## Roadmap
 
@@ -15,7 +15,7 @@ Simply, this is a management app for Factions in TORN. Aiming to aid with manage
       - [ ] Active Time (Last seen online)
       - [ ] User Gained Respect Counter
       - [ ] Respect Graph
-    - [ ] Time Period Filter
+    - [ ] time Filter
   - [ ] Administration
   - [ ] Database integration
     - [ ] User Authentification
@@ -24,7 +24,7 @@ Simply, this is a management app for Factions in TORN. Aiming to aid with manage
 - [ ] Discord Bot integration
   - [ ] TORN User Verification
     - [ ] TORN Nickname + id changer
-    - [ ] Rank and Position recognition 
+    - [ ] Rank and Position Recognition 
   - [ ] Activity Annoucements
     - [ ] Members joining & leaving
     - [ ] Deposits & Withdraws in faction bank
